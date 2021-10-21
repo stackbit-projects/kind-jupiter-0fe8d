@@ -20,6 +20,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+        icon_class: facebook
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
