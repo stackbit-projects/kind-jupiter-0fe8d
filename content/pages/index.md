@@ -21,7 +21,7 @@ sections:
         url: /contact
         style: button
         icon_class: facebook
-        no_follow: true
+        no_follow: false
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
